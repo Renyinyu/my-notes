@@ -187,7 +187,7 @@ class User {
   }
 }
 
-const hd = new User("向军大叔");
+const hd = new User("toughC");
 console.log(hd.getName());
 for (const key in hd) {
   console.log(key);
